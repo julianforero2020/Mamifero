@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Mamifero
+comment1.params=
+comment1.target=Mamifero()
+comment2.params=nombre\ edad\ nPatas
+comment2.target=Mamifero(java.lang.String,\ java.lang.Integer,\ java.lang.Integer)
+comment3.params=
+comment3.target=void\ imprimir()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=
+comment6.target=java.lang.Integer\ getEdad()
+comment7.params=edad
+comment7.target=void\ setEdad(java.lang.Integer)
+comment8.params=
+comment8.target=java.lang.Integer\ getnPatas()
+comment9.params=nPatas
+comment9.target=void\ setPatas(java.lang.Integer)
+numComments=10
